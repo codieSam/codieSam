@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **new exciting projects**
 
-- 💬 Ask me about **TypeScript, Node, React, Next, PostgreSql, Mysql**
+- 💬 Ask me about **TypeScript, Node, React, Next, PostgreSql, Mysql, Php, Laravel, Codeigniter**
 
 - 📫 How to reach me **samratbelbase408@gmail.com**
 
