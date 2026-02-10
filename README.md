@@ -3,17 +3,17 @@
 
 - 🔭 I’m currently working on **Online Learning Platform**
 
-- 🌱 I’m currently learning **SaaS Development**
+- 🌱 I’m currently learning **SaaS Development** & **DevOps/DevSecOps**
 
 - 👯 I’m looking to collaborate on **Learning Platform**
 
 - 🤝 I’m looking for help with **new exciting projects**
 
-- 💬 Ask me about **TypeScript, Node, React, Next, PostgreSql, Mysql, Php, Laravel, Codeigniter**
+- 💬 Ask me about **TypeScript, Node, React, Next, PostgreSql, Mysql, Php, Laravel, Codeigniter,Github,Azure,Gitlab,DevOps,DevSecOps**
 
-- 📫 How to reach me **samratbelbase408@gmail.com**
+- 📫 How to reach me **samratbelbase408@gmail.com, samratoncloud@gmail.com**
 
-- ⚡ Fun fact **A web developer who turns coffee and late-night bugs into functional websites—usually on the first try 😒!**
+- ⚡ Fun fact **A web developer & Soon to be a DevOps Engineer who turns coffee and late-night bugs into functional websites—usually on the first try 😒!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
